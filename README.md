@@ -8,7 +8,7 @@ A beautiful, real-time bookmark manager built with Next.js, Supabase, and Tailwi
 
 ## 🌟 Live Demo
 
-**[Live URL]**: *Your deployed Vercel URL here*
+**[Live URL]**: [link](https://bookmark-app-ruby.vercel.app/)
 
 ## ✨ Features
 
